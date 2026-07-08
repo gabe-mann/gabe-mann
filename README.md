@@ -1,17 +1,17 @@
 # Gabriel Mann
 
-I build fast websites, practical automation, and editor-friendly systems for service businesses.
+I build fast, maintainable websites and practical automation for service businesses.
 
-Right now I am focused on Astro, Netlify, Decap CMS, GitHub Actions, and small Python tools that make content and operations easier to manage. A lot of my current work is private client or firm infrastructure, so this profile is where I will collect public experiments, writeups, and reusable pieces as they are ready to share.
+My work sits at the intersection of web development, content systems, and operations: rebuilding aging sites, making them easier to manage, and automating the repetitive work around publishing, maintenance, and deployment.
 
-## Current Focus
+## What I Work On
 
-- Building static sites that are fast, secure, and easy for non-technical editors to update.
-- Turning messy content migrations into clear Astro content models.
-- Automating maintenance work with Python, GitHub Actions, and lightweight scripts.
-- Improving SEO, accessibility, redirects, and deployment workflows for real business sites.
+- **Modern website rebuilds** — fast, accessible static sites with fewer moving parts.
+- **Content systems** — clear models and editor-friendly workflows for teams that need to update their own sites.
+- **SEO and migrations** — metadata, redirects, structured data, and careful transitions from legacy platforms.
+- **Practical automation** — focused Python tools and GitHub Actions workflows that make routine work visible and repeatable.
 
-## Tools I Use
+## Current Toolkit
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -19,27 +19,12 @@ Right now I am focused on Astro, Netlify, Decap CMS, GitHub Actions, and small P
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=111111)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Decap CMS](https://img.shields.io/badge/Decap_CMS-FF0082?style=flat-square&logo=netlify&logoColor=white)
 
-## Project Themes
+## How I Build
 
-### Website Rebuilds
+I favor simple systems that are easy to understand, test, and hand off. That usually means strong defaults, accessible interfaces, deliberate content structure, and deployment workflows that do not require a developer for every small change.
 
-I like rebuilding older sites into cleaner static systems: faster pages, clearer content ownership, safer deploys, and fewer moving parts for the people who maintain them.
-
-### Content Operations
-
-I work on content models, migration paths, redirects, metadata, and CMS workflows that help teams keep sites current without needing a developer for every small change.
-
-### Automation
-
-I use Python and GitHub Actions for focused tools: scraping public data, checking links, updating generated files, and keeping routine maintenance visible.
-
-## What I Am Sharing Next
-
-- Public case studies from private site rebuilds, with sensitive client details removed.
-- Small Python utilities for content collection and cleanup.
-- Astro and Netlify patterns for practical business websites.
+Much of my current work supports private client and firm infrastructure. I use this profile to share public experiments, reusable patterns, and selected case studies as they become ready.
 
 ## Connect
 
